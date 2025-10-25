@@ -11,6 +11,11 @@
 
 ---
 
+## 🔗 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/khushi-ch)
+
+---
+
 ## 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
@@ -34,11 +39,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushichauhan7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushichauhan7&layout=compact&theme=radical)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khushichauhan7?theme=dark)
-
----
-
-## 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/khushi-ch)
 
 ---
 
