@@ -1,8 +1,8 @@
 ## 💫 About Me:
-- 🎓 I am a second year undergrad at **Doon University**.
-- 🔭 I’m currently working on Blockchain.
-- 🌱 I’m currently learning Data Science.
-- 🎓 I'm skilled in Java, JavaScript, React, Node.js, Python, and Spring Boot.
+🎓 I am a second year undergrad at **Doon University**.  
+🔭 I’m currently working on Blockchain.  
+🌱 I’m currently learning Data Science.  
+🎓 I'm skilled in Java, JavaScript, React, Node.js, Python, and Spring Boot.  
 - 🎯 Interests: Blockchain, Web3, Full-stack development
 - 🛠️ Skilled in: Java, JavaScript, React, Node.js, Python, Spring Boot
 - 🧪 Learning & experimenting with: Solidity, Rust, Smart Contracts
