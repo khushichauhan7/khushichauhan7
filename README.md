@@ -1,8 +1,8 @@
 ## 💫 About Me:
--🎓 I am a second year undergrad at **Doon University**.
--🔭 I’m currently working on DApps and Blockchain.
--🌱 I’m currently learning Data Science.
--🎓 I'm skilled in Java, JavaScript, React, Node.js, Python, and Spring Boot.
+- 🎓 I am a second year undergrad at **Doon University**.
+- 🔭 I’m currently working on Blockchain.
+- 🌱 I’m currently learning Data Science.
+- 🎓 I'm skilled in Java, JavaScript, React, Node.js, Python, and Spring Boot.
 - 🎯 Interests: Blockchain, Web3, Full-stack development
 - 🛠️ Skilled in: Java, JavaScript, React, Node.js, Python, Spring Boot
 - 🧪 Learning & experimenting with: Solidity, Rust, Smart Contracts
@@ -34,7 +34,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushichauhan7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushichauhan7&layout=compact&theme=radical)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khushichauhan7?theme=dark)
-![LeetCode Streak](https://leetcard.jacoblin.cool/khushichauhan7?theme=dark&font=Roboto)
 
 ---
 
