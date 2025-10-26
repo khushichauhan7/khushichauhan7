@@ -6,7 +6,8 @@
 - 🎯 Interests: Blockchain, Web3, Full-stack development
 - 🛠️ Skilled in: Java, JavaScript, React, Node.js, Python, Spring Boot
 - 🧪 Learning & experimenting with: Solidity, Rust, Smart Contracts
-
+  
+[Check out my resume](https://drive.google.com/file/d/1oWUquisP8FuecW--OBMH9xX7xx3UV2wO/view?usp=sharing)  
 [📫 Email](mailto:khushic142@gmail.com)
 
 ---
